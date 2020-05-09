@@ -10,5 +10,5 @@ An official implementaiton is here:https://github.com/PRBonn/depth_clustering
 
 ### The Result
 
-[!image](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/cluster-image.png)
-[!image](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/range_image.png)
+![Image text](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/cluster-image.png)
+![Image text](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/range_image.png)
