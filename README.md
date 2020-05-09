@@ -9,3 +9,6 @@ An official implementaiton is here:https://github.com/PRBonn/depth_clustering
     2. Using hash map replace the image-based search
 
 ### The Result
+
+[!image](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/cluster-image.png)
+[!image](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/range_image.png)
