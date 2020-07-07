@@ -8,6 +8,15 @@ The ground remove code is from https://github.com/AbangLZU/plane_fit_ground_filt
 
     1. We changed the ground segmentation method
     2. Using hash map replace the image-based search
+    
+    
+### How to use
+
+    mkdir build
+    cd build
+    cmake ..
+    make
+    ./range_cluster test.bin
 
 ### The Result
 
