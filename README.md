@@ -29,4 +29,6 @@ To the horizon neighbor search, we didn't use the method in paper. The method th
 ![Image text](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/cloud.png)
 ![Image text](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/range_image_only.png)
 ![Image text](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/range_image_with_cluster.png)
+![Image text](https://github.com/WAN96/Range-Image-based-segementation/blob/master/image/output2.png)
+
 
